@@ -1,0 +1,22 @@
+{
+  "videos": [
+    {
+      "id": "1",
+      "title": "Interview exclusive avec un artiste local",
+      "category": "Vox Pop",
+      "videoUrl": "https://www.youtube.com/watch?v=VIDEO_ID_1"
+    },
+    {
+      "id": "2",
+      "title": "Résumé du match de football du week-end",
+      "category": "Minute Sportive",
+      "videoUrl": "https://www.youtube.com/watch?v=VIDEO_ID_2"
+    },
+    {
+      "id": "3",
+      "title": "L'histoire fascinante de notre ville",
+      "category": "Raconte",
+      "videoUrl": "https://www.youtube.com/watch?v=VIDEO_ID_3"
+    }
+  ]
+}

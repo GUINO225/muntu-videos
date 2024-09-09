@@ -2,21 +2,22 @@
   "videos": [
     {
       "id": "1",
-      "title": "Interview exclusive avec un artiste local",
-      "category": "Vox Pop",
-      "videoUrl": "https://www.youtube.com/watch?v=VIDEO_ID_1"
+      "title": "Décidément, la femme claire est une bénédiction pour certains et un cauchemar pour d'autres.",
+       "videoUrl": "https://muntuvideo.s3.eu-north-1.amazonaws.com/1.mp4"
+       
     },
     {
-      "id": "2",
-      "title": "Résumé du match de football du week-end",
-      "category": "Minute Sportive",
-      "videoUrl": "https://www.youtube.com/watch?v=VIDEO_ID_2"
+     "id": "2",
+      "title": "Décidément, la femme claire est une bénédiction pour certains et un cauchemar pour d'autres.",
+       "videoUrl": "https://muntuvideo.s3.eu-north-1.amazonaws.com/1.mp4"
     },
     {
-      "id": "3",
-      "title": "L'histoire fascinante de notre ville",
-      "category": "Raconte",
-      "videoUrl": "https://www.youtube.com/watch?v=VIDEO_ID_3"
+     "id": "3",
+     "title": "Décidément, la femme claire est une bénédiction pour certains et un cauchemar pour d'autres.",
+      "videoUrl": "https://muntuvideo.s3.eu-north-1.amazonaws.com/1.mp4"
     }
   ]
 }
+
+
+ 

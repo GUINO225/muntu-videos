@@ -4,30 +4,22 @@
     {
       "id": "1",
       "video_title": "Décidément, la femme claire est une bénédiction pour certains et un cauchemar pour d'autres.",
-       "videoUrl": "https://muntuvideo.s3.eu-north-1.amazonaws.com/1.mp4"
-       
+      "videoUrl": "https://muntuvideo.s3.eu-north-1.amazonaws.com/1.mp4"
     },
-   
     {
-     "id": "2",
-     "video_title": "À l’école, dans quelle matière excellais-tu le plus ?
-",
+      "id": "2",
+      "video_title": "À l’école, dans quelle matière excellais-tu le plus ?",
       "videoUrl": "https://muntuvideo.s3.eu-north-1.amazonaws.com/2.mp4"
     },
-      {
-     "id": "3",
-     "video_title": "test",
+    {
+      "id": "3",
+      "video_title": "Samuel Eto’o vs Marc Brys: Qui a raison ?",
       "videoUrl": "https://muntuvideo.s3.eu-north-1.amazonaws.com/3.mp4"
     },
-{
-     "id": "4",
-     "video_title": "Alors, tu es plus perruques ou cheveux naturels ?",
+    {
+      "id": "4",
+      "video_title": "Alors, tu es plus perruques ou cheveux naturels ?",
       "videoUrl": "https://muntuvideo.s3.eu-north-1.amazonaws.com/4.mp4"
     }
-   
-    
   ]
 }
-
-
- 

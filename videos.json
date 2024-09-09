@@ -2,18 +2,18 @@
   "videos": [
     {
       "id": "1",
-      "title": "Décidément, la femme claire est une bénédiction pour certains et un cauchemar pour d'autres.",
+      "video_title": "Décidément, la femme claire est une bénédiction pour certains et un cauchemar pour d'autres.",
        "videoUrl": "https://muntuvideo.s3.eu-north-1.amazonaws.com/1.mp4"
        
     },
     {
      "id": "2",
-      "title": "Décidément, la femme claire est une bénédiction pour certains et un cauchemar pour d'autres.",
+      "video_title": "Décidément, la femme claire est une bénédiction pour certains et un cauchemar pour d'autres.",
        "videoUrl": "https://muntuvideo.s3.eu-north-1.amazonaws.com/1.mp4"
     },
     {
      "id": "3",
-     "title": "Décidément, la femme claire est une bénédiction pour certains et un cauchemar pour d'autres.",
+     "video_title": "Décidément, la femme claire est une bénédiction pour certains et un cauchemar pour d'autres.",
       "videoUrl": "https://muntuvideo.s3.eu-north-1.amazonaws.com/1.mp4"
     }
   ]
